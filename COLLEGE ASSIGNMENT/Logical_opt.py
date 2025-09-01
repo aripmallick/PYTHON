@@ -1,0 +1,8 @@
+a=float(input("Enter the value of a: "))
+b=float(input("Enter the value of b: "))
+X=(a>b and a<b)
+Y=(a>b or a<b)
+Z=not(a>b)
+print("Check AND operation: ",X)
+print("Check OR operation: ",Y)
+print("Check NOT operation: ",Z)
