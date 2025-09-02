@@ -1,4 +1,4 @@
-a=int(input("Enter a positive integer: "))
+a=int(input("Enter a integer: "))
 sign=-1 if a<0 else 1
 a=abs(a)
 reverse_num=0

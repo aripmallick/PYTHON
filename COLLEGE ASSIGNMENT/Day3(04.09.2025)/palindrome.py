@@ -9,3 +9,14 @@ if temp==reverse_num:
     print(f"{temp} is a plalindrome number")
 else:
     print(f"{temp} is not a palindrome number")
+
+#example: if 222 reverse form is same then is called palindrome.
+
+
+
+
+
+
+
+
+
