@@ -5,5 +5,5 @@ print("Max: ",max)
 
 x=int(input("Enter the value of x: "))
 y=int(input("Enter the value of y: "))
-min=x if a<b else y
+min=x if x<y else y
 print("Min: ",min)
